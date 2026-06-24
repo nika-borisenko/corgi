@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://example.com/index.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/index.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://example.com/breeds.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/breeds.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://example.com/care.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/care.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://example.com/gallery.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/gallery.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>0.7</priority>
    </url>
    <url>
-      <loc>https://example.com/about.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/about.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://example.com/contacts.html</loc>
+      <loc>https://nika-borisenko.github.io/corgi/contacts.html</loc>
       <lastmod>2026-06-23</lastmod>
       <priority>0.5</priority>
    </url>
